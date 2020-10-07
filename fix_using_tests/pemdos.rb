@@ -8,4 +8,4 @@ def snake_it_up(string)
   end
 end
 
-snake_it_up
+snake_it_up("surprise!")
